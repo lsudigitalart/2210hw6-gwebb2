@@ -2,6 +2,7 @@
 - HW: Click the link: https://classroom.github.com/assignment-invitations/79214ff81ca3961b0df7922d2dbded39. 
 - HW: Create an interactive collage using found images and text. See the following link to create your own server before previewing images: https://github.com/processing/p5.js/wiki/Local-server. See the following link for using animated GIFs: https://forum.processing.org/two/discussion/12736/animated-gif-support-in-p5. Host your website on github.io. 
 - Inspiration:
+  - [Paperrad](http://www.paperrad.org)
   - [Rollin Leonard](http://rollinleonard.tumblr.com/post/64963003543/ball-o-arms)
   - [Lorna Mills](http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump/)
   - [Petra Cortright](http://www.petracortright.com/hello.html)
